@@ -298,25 +298,45 @@
 
 /* sec13 start */
 
-.sec14{
+.sec13{
 	background-color:red;
 	padding:80px 0;
 }
-.con_box20{
+.con_box17{
 	height:50px;
 	width:auto;
 	background-color:black;
 }
-.con_box21{
-	height:200px;
+.con_box18{
+	height:150px;
 	width:auto;
 	background-color:black;
 	margin:20px 0;
 }
-.con_bo{
-	height:430px;
+.con_box19{
+	height:340px;
 	width:auto;
 	background-color:black;
 	margin:20px 0;
 }
 /* sec13 end */
+
+/* sec14 start */
+
+.sec14{
+	background-color:black;
+	padding:80px 0;
+}
+.con_box20{
+	height:50px;
+	width:auto;
+	background-color:red;
+}
+.con_box21{
+	height:200px;
+	width:auto;
+	background-color:red;
+	margin:20px 0;
+}
+
+/* sec14 end */
